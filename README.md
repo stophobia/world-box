@@ -6,9 +6,11 @@ World Box Lite는 웹 브라우저에서 동작하는 가벼운 국가 시뮬레
 
 원작 : https://websim.com/@gygy/pixel-nation-builder-2
 
-실행주소1 : https://sigco3111.github.io/world-box/
 
-실행주소2 : https://dev-canvas-pi.vercel.app/
+[![Live](https://img.shields.io/badge/Live-GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://sigco3111.github.io/world-box/)
+
+> **호스팅 이력**: 본 프로젝트는 Vercel에서 운영되었으나 2026-08에 GitHub Pages로 전환했습니다. 공식 라이브 데모는 위 Pages URL입니다.
+
 
 ## 주요 기능
 
